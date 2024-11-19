@@ -1,0 +1,2 @@
+up:
+	./vagrant-up.sh
